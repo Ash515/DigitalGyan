@@ -1,5 +1,8 @@
-# AudioBook
-A simple python application that reads the book
+# AudioBook  📓
+A simple python application that reads the PDF files.
+
+# Tech Stacks ✨
+- Python
 
 # 🚀&nbsp;Installation 
 1. Clone the repository 
