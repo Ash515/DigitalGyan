@@ -1,10 +1,10 @@
-# AudioBook  📓
-A simple python application that reads the PDF files.
+# Digital Gyan  📓
+A graphical user interface which automatically reads the book (Pdf, Word documents) and detects the page numbers. It is highly helpful to brings a reading habit to all individuals and also helpful to blind peoples to learn.
 
-# Tech Stacks ✨
-- Python
+## Tech Stacks 
+Frontend - Python
 
-# 🚀&nbsp;Installation 
+## Installation 
 1. Clone the repository 
 ```
 https://github.com/Ash515/AudioBook.git
